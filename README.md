@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1447111.svg)](https://doi.org/10.5281/zenodo.1447111)
+
 # AVT_presentation_code-fMRI
 
 Presentation code to run the AVT fMRI study at 7T. 
